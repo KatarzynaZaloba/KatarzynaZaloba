@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **kzalobafrontent@gmail.com**
 
-- ⚡ Fun fact **I am a huge fan of trail running.**
+- ⚡ Fun fact **Every Mid or Senior was on my place when they started their career.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
