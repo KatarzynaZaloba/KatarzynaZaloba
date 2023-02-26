@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katarzyna</h1>
 <h3 align="center">a passionate frontend developer from Poland</h3>
 
-- 📫 How to reach me **kzalobafrontent@gmail.com**
+- 📫 How to reach me **kzalobafrontend@gmail.com**
 
 - ⚡ Fun fact **Every Mid or Senior was on my place when they started their career.**
 
