@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Scandiweb-test**
 
-- 🌱 I’m currently learning **PHP, mySQL, jQuery, vue.js**
+- 🌱 I’m currently learning **Frontend by YouCode**
 
 - 📫 How to reach me **kzalobafrontend@gmail.com**
 
