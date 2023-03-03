@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katarzynazaloba&label=Profile%20views&color=0e75b6&style=flat" alt="katarzynazaloba" /> </p>
 
-- 🔭 I’m currently working on **Scandiweb-test**
+- 🔭 I’m currently working on [my portfolio page](https://katarzynazaloba.github.io/personal-portfolio-page/)
 
-- 🌱 I’m currently learning **Frontend by YouCode**
+- 🌱 I’m currently learning **Frontend developing by YouCode**
 
 - 📫 How to reach me **kzalobafrontend@gmail.com**
 
@@ -22,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katarzynazaloba&show_icons=true&locale=en&layout=compact" alt="katarzynazaloba" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katarzynazaloba&show_icons=true&locale=en" alt="katarzynazaloba" /></p>
-
