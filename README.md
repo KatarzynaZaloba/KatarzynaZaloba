@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katarzynazaloba&label=Profile%20views&color=0e75b6&style=flat" alt="katarzynazaloba" /> </p>
 
-- 🔭 I’m currently working on [my portfolio page](https://katarzynazaloba.github.io/personal-portfolio-page/)
+- 🔭 I’m currently working on [my portfolio page](https://katarzynazaloba.github.io/my-homepage/)
 
 - 🌱 I’m currently learning **Frontend developing by YouCode**
 
