@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio page](https://katarzynazaloba.github.io/my-homepage/)
 
-- 🌱 I’m currently learning **Frontend developing by YouCode**
+- 🌱 I’m currently learning *Javascript by Codenga*
 
 - 📫 How to reach me **kzalobafrontend@gmail.com**
 
