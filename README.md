@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [movie-project](https://github.com/KatarzynaZaloba/movie-project) with my Dream-Team from *YouCode's Frontend Developer course*
 
-- 🌱 I’m currently learning *Javascript by Codenga*
+- 🌱 I’m currently learning *Bootstrap*
 
 - 📫 How to reach me **kzalobafrontend@gmail.com**
 
