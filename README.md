@@ -2,7 +2,7 @@
 <h3 align="center">a passionate frontend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katarzynazaloba&label=Profile%20views&color=0e75b6&style=flat" alt="katarzynazaloba" /> </p>
-
+ 
 - 🔭 I’m currently working on [movie-project](https://github.com/KatarzynaZaloba/movie-project) with my Dream-Team from *YouCode's Frontend Developer course*
 
 - 🌱 I’m currently learning [Bootstrap](https://platforma.strefakursow.pl/platforma/kurs/192)
