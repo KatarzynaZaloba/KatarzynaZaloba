@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katarzynazaloba&label=Profile%20views&color=0e75b6&style=flat" alt="katarzynazaloba" /> </p>
  
-- 🔭 I’m currently working on [movie-project](https://github.com/KatarzynaZaloba/movie-project) with my Dream-Team from *YouCode's Frontend Developer course*
+- 🔭 I’m currently working on my website,
 
-- 🌱 I’m currently learning [Bootstrap](https://platforma.strefakursow.pl/platforma/kurs/192)
+- 🌱 I’m currently learning [Bootstrap](https://platforma.strefakursow.pl/platforma/kurs/192) and [C++](https://codenga.pl/products/cpp_biblioteka_standardowa) 
 
 - 📫 How to reach me **kzalobafrontend@gmail.com**
 
