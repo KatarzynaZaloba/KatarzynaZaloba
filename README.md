@@ -15,3 +15,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/katarzyna-zaloba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katarzyna-zaloba/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">My Skills:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,react,redux,git,github,codepen,discord,vscode,cpp,php)](https://skillicons.dev)
+
+<h3 align="left">What I plan to learn next:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,threejs,angular,vue,nodejs,mysql,sqlite,py)](https://skillicons.dev)
