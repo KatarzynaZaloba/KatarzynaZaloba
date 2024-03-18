@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katarzynazaloba&label=Profile%20views&color=0e75b6&style=flat" alt="katarzynazaloba" /> </p>
  
-- 🔭 I’m currently working on my blog,
+- 🔭 I’m currently working on my studies,
 
 - 📫 How to reach me **kzalobafrontend@gmail.com**
 
-- ⚡ Fun fact **every MId or Senior was on my place when they started their career.**
+- ⚡ Fun fact **every Mid or Senior was on my place when they started their career.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
