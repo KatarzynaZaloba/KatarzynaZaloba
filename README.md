@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katarzynazaloba&label=Profile%20views&color=0e75b6&style=flat" alt="katarzynazaloba" /> </p>
  
-- 🔭 I’m currently working on my thesis, so I've started <a href="https://zrozumiecreact.pl">ZrozumiecReact.pl</a>,
+- 🔭I’m currently working on my post-graduate thesis, so I've started attending to <a href="https://zrozumiecreact.pl">ZrozumiecReact.pl</a> course,
 
 - 📫 How to reach me **kzalobafrontend@gmail.com**
 
