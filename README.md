@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katarzynazaloba&label=Profile%20views&color=0e75b6&style=flat" alt="katarzynazaloba" /> </p>
  
-- 🔭I’m currently working on my post-graduate thesis, so I've started attending to <a href="https://zrozumiecreact.pl">ZrozumiecReact.pl</a> course,
+- 🔭I’m currently attending to a <a href="https://zrozumiecreact.pl">ZrozumiecReact.pl</a> course,
 
-- 📫 How to reach me **kzalobafrontend@gmail.com**
+- 📫 How to reach me **katarzyna@afrontech.com**
 
 - ⚡ Fun fact **every Mid or Senior was on my place when they started their career.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/katarzyna-zaloba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katarzyna-zaloba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/katarzyna-beldzinska/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katarzyna-zaloba/" height="30" width="40" /></a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarzynazaloba&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
